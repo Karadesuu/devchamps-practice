@@ -1,6 +1,2 @@
 Team Name: Code Champions
-<<<<<<< HEAD
 Project Leader: Jolo
-=======
-Project Leader: Kara
->>>>>>> Kara
